@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m chown vincent:staff  my_dir
+mkdir -m my_dir chown vincent:staff  my_dir
